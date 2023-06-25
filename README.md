@@ -11,10 +11,10 @@ Projeto WebService FrontEnd:
 
 COMANDOS *
 Abaixo os passos necessários para testar o Webservice com a ferramenta Insomnia, postman ou similar.
-Com o node instalado:
-npm install -- para instalar os node_modules;
-npx prisma migrate dev -- para executar as migrations do banco de dados;
-npm run dev -- para rodar o projeto.
+- Com o node instalado:
+ - npm install -- para instalar os node_modules;
+ - npx prisma migrate dev -- para executar as migrations do banco de dados;
+ - npm run dev -- para rodar o projeto.
 
 Para testar o funcionamento por completo BackEnd/FrontEnd será necessário ter feito os passos acima e na raiz do frontend rodar os seguintes comandos:
 - npm install
